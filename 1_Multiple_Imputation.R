@@ -25,7 +25,6 @@
 library(randomForestSRC) 
 
 load("LogNormalized_9types.data")
-
 nam <- rownames(LogNormalized.data)
 
 Lig.cell <- "Myeloid" 
