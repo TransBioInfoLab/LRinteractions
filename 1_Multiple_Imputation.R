@@ -1,14 +1,16 @@
 ###################################################################	
-### <April 20 2021> Yifan Sha and Min Lu
+### <June 20 2022> Min Lu and Yifan Sha
 ###
 ###  
 ###
 ###################################################################	
 ### 
+### An R program for identifying ligand-receptor gene interactions for scRNA-seq 
+###  using Random Forest based methods
+###
 ### R code for "LR hunting: a Random Forests based cell-cell interaction 
 ###             discovery method for single-cell gene expression data"
 ### ------------------------------------------------------------
-###  Yifan Sha, PhD                  y.sha@umiami.edu 
 ###  Min Lu, PhD                     m.lu6@umiami.edu
 ###                                  phone: 305-243-5473
 ###  Research Assistant Professor, Division of Biostatistics           
