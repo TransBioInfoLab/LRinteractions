@@ -1,4 +1,4 @@
-#LRinteractions: an R program for identifying ligand-receptor gene interactions using Random Forest based methods
+##LRinteractions: an R program for identifying ligand-receptor gene interactions using Random Forest based methods
 
 Min Lu*, Yifan Sha, Tiago C. Silva1, Antonio Colaprico, Xiaodian Sun, Yuguang Ban, Lily Wang, Brian D. Lehmann and X. Steven Chen
 *Maintainer
