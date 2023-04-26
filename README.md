@@ -4,7 +4,7 @@ Min Lu, Yifan Sha, Tiago C. Silva1, Antonio Colaprico, Xiaodian Sun, Yuguang Ban
 <br>
 Maintainer: Min Lu \<m.lu6@umiami.edu\>
 
-**Cited as**<br>
+**Cite as**<br>
 Lu M., Sha Y., Silva T.C., Colaprico A., Sun X., Ban Y., Wang L., Lehmann B.D. and Chen X.S. (2022) *LRinteractions: an R program for identifying ligand-receptor gene interactions for scRNA-se using Random Forest based methods*, available at https://github.com/TransBioInfoLab/LRinteractions
 
 
